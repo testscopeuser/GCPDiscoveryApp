@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>de95a251db4feb802879f52ebf9619cb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_ca_assc_dc_quota_type">
+    <sn_cmp_ca_assc_dc_quota_type action="INSERT_OR_UPDATE">
+        <associated_datacenter display_value="Google Datacenter - us-west1">da95a251db4feb802879f52ebf9619c9</associated_datacenter>
+        <limit>1000</limit>
+        <quota_type display_value="VM_Count">675454c10b232200e586a2c563673a47</quota_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-16 07:00:25</sys_created_on>
+        <sys_id>de95a251db4feb802879f52ebf9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-16 07:00:25</sys_updated_on>
+    </sn_cmp_ca_assc_dc_quota_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-31 12:33:46</sys_created_on>
+        <sys_id>abb1cd52db5b2b002879f52ebf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-01-15 23:00:25</sys_name>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sys_metadata_link_abb1cd52db5b2b002879f52ebf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-31 12:33:46</sys_updated_on>
+        <tablename>sn_cmp_ca_assc_dc_quota_type</tablename>
+    </sys_metadata_link>
+</record_update>

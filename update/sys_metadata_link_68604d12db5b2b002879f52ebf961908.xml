@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>da95a251db4feb802879f52ebf9619c9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_ca_assc_datacenter">
+    <sn_cmp_ca_assc_datacenter action="INSERT_OR_UPDATE">
+        <alias>Google Datacenter - us-west1</alias>
+        <cloud_account display_value="Google Cloud Account 01">00f1e65ddb0feb802879f52ebf961916</cloud_account>
+        <ldc_id display_value="us-west1">c2856251db4feb802879f52ebf9619a7</ldc_id>
+        <mid_server/>
+        <resource_block display_value="Google Datacenter">af14cb7adb68630044a490b6db96193c</resource_block>
+        <status>1</status>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-16 07:00:25</sys_created_on>
+        <sys_id>da95a251db4feb802879f52ebf9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-16 07:00:25</sys_updated_on>
+    </sn_cmp_ca_assc_datacenter>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-31 12:27:50</sys_created_on>
+        <sys_id>68604d12db5b2b002879f52ebf961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google Datacenter - us-west1</sys_name>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sys_metadata_link_68604d12db5b2b002879f52ebf961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-31 12:27:50</sys_updated_on>
+        <tablename>sn_cmp_ca_assc_datacenter</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>06856251db4feb802879f52ebf9619d1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="Google Demo Service Account">0175ae11db4feb802879f52ebf961998</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="us-west1">c2856251db4feb802879f52ebf9619a7</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>midserver</sys_created_by>
+        <sys_created_on>2019-01-16 07:00:08</sys_created_on>
+        <sys_id>06856251db4feb802879f52ebf9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>midserver</sys_updated_by>
+        <sys_updated_on>2019-01-16 07:00:08</sys_updated_on>
+        <type display_value="Hosted on::Hosts">5f985e0ec0a8010e00a9714f2a172815</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-31 12:14:57</sys_created_on>
+        <sys_id>376df49edb1b2b002879f52ebf961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-01-15 23:00:08</sys_name>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sys_metadata_link_376df49edb1b2b002879f52ebf961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-31 12:14:57</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>
