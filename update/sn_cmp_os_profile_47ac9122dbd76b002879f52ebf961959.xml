@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile">
+    <sn_cmp_os_profile action="INSERT_OR_UPDATE">
+        <description>Google OS Profile - Discovered Data</description>
+        <name>Google OS Profile</name>
+        <sys_class_name>sn_cmp_os_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-01 09:10:21</sys_created_on>
+        <sys_id>47ac9122dbd76b002879f52ebf961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google OS Profile</sys_name>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_47ac9122dbd76b002879f52ebf961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-01 09:10:21</sys_updated_on>
+    </sn_cmp_os_profile>
+</record_update>

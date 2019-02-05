@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile_mapping">
+    <sn_cmp_os_profile_mapping action="INSERT_OR_UPDATE">
+        <cloud_account display_value="Google Cloud Account 01">00f1e65ddb0feb802879f52ebf961916</cloud_account>
+        <location display_value="us-west1">c2856251db4feb802879f52ebf9619a7</location>
+        <price/>
+        <profile display_value="Google OS Profile">47ac9122dbd76b002879f52ebf961959</profile>
+        <sys_class_name>sn_cmp_os_profile_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-01 09:49:57</sys_created_on>
+        <sys_id>73a5ede6dbd76b002879f52ebf9619c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_mapping_73a5ede6dbd76b002879f52ebf9619c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-01 09:50:48</sys_updated_on>
+        <template display_value="image-1">5fc5aa51db4feb802879f52ebf961981</template>
+    </sn_cmp_os_profile_mapping>
+</record_update>

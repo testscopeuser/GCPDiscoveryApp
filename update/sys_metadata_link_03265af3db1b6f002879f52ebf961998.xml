@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>dd02629ddb0feb802879f52ebf9619f3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_gcp_google_credentials">
+    <sn_cmp_gcp_google_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>sn_cmp_gcp_google</classification>
+        <client_email>servicenowitomdev@servicenowitomdev.iam.gserviceaccount.com</client_email>
+        <mid_list/>
+        <name>Google Demo credential</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <project>servicenowitomdev</project>
+        <ssh_passphrase/>
+        <ssh_private_key>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</ssh_private_key>
+        <sys_class_name>sn_cmp_gcp_google_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-16 06:57:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd02629ddb0feb802879f52ebf9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-16 06:57:14</sys_updated_on>
+        <tag/>
+        <type>sn_cmp_gcp_google</type>
+        <user_name/>
+    </sn_cmp_gcp_google_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 10:33:33</sys_created_on>
+        <sys_id>03265af3db1b6f002879f52ebf961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google Demo credential</sys_name>
+        <sys_package display_value="Google Discovered Data" source="x_snc_google_disco">aa077c96db1b2b002879f52ebf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Discovered Data">aa077c96db1b2b002879f52ebf9619d9</sys_scope>
+        <sys_update_name>sys_metadata_link_03265af3db1b6f002879f52ebf961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 10:33:33</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>
